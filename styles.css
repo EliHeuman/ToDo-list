@@ -1,6 +1,8 @@
 .app {
     background: brown;
     height: 100vh;
+    max-width: 66%;
+    margin: auto;
 }
 body {
     margin: 0;
