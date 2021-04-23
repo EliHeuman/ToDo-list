@@ -11,8 +11,8 @@ ___
 Importing React to this project helped speed up production and styling. The project has a Todo list. The project showcases the Todo-list I worked on during the past weeks at the MIT course.
 ___
 ## Contribute
-Source Code: https://github.com/EliHeuman/ToDo-list/blob/main/index.js
-Source Code:https://github.com/EliHeuman/ToDo-list/blob/main/form.js
+Source Code: https://github.com/EliHeuman/ToDo-list/blob/main/index.js<br>
+Source Code:https://github.com/EliHeuman/ToDo-list/blob/main/form.js<br>
 Source Code: https://github.com/EliHeuman/ToDo-list/blob/main/index.html
 
 ##### Support
