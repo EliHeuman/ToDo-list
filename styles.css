@@ -1,0 +1,48 @@
+.app {
+    background: brown;
+    height: 100vh;
+}
+body {
+    margin: 0;
+    font-family: fantasy;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-smoothing: grayscale;
+}
+
+code {
+    font-family: Arial;
+}
+
+.todo-list {
+    background: black;
+    border-radius: 4px;
+    padding: 5px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.todo{
+    background: #fff;
+    box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
+    padding: 3px 10px;
+    font-size: 24px;
+    margin-bottom: 6px; border-radius: 3px;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.input{
+    width: 100%;
+    box-sizing: border-box;
+    border: 0;
+    border-radius: 4px;
+    box-shadow: none;
+    padding: 1rem;
+    height: 2.25em;
+    font-size: 24px;
+}
+.h1{
+    text-align: center;
+}
+
