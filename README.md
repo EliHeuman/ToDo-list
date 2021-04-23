@@ -23,5 +23,5 @@ Add styling and buttons.
 
 #### License information
 
-<a href="https://eliheuman.github.io/ToDo-list/License.txt">The MIT License (MIT)</a>
+<a href="https://eliheuman.github.io/License.txt">The MIT License (MIT)</a>
 
